@@ -1,4 +1,18 @@
-# Bitches
-Someone in the Feather Client Discord told me to go code myself some bitches, so I did.
+# Ethina
+Decided to make ethina yours myself
 
-I heard if you star this, it gives you more bitches.
+The code will run on every computer except person's name zarif
+
+Will ethina be yours?try it yourself                 |definitely not rigged|
+
+Star the repository for higher chances!
+
+
+
+
+
+
+
+
+
+ps:I have her private repository our codes might merge together soon!
